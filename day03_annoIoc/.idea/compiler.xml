@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day07_aopxml" />
+        <module name="day03_annoIoc" />
+        <module name="day05_springfuxu" />
+        <module name="day04_aop" />
+        <module name="day02_xmlioccurd" />
+        <module name="day01_spring" />
+        <module name="day06_aopAccount" />
+        <module name="Mybatis_day01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day05_springfuxi" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
